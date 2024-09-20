@@ -32,3 +32,8 @@ In conclusion, passkeys represent a significant advancement in user authenticati
 1.	Choose a Passkey Provider: Select a service that supports passkeys, such as Apple, Google, or Microsoft.  I tried hanko.io, it provides a free trial for few user accounts.
 2.	Integrate with Your System: Use the provider’s SDKs or APIs to integrate passkey functionality into your application or website.
 3.	Set Up Biometric Authentication: Ensure that your users have devices capable of biometric authentication (like fingerprint or facial recognition).
+
+## Demo video
+![image](https://github.com/user-attachments/assets/95a05a42-b5d2-4fb1-905e-d4439a184dce)
+(https://github.com/justinlaw360/passkey/blob/main/passkey_demo.mp4)
+
