@@ -42,6 +42,7 @@ In conclusion, passkeys represent a significant advancement in user authenticati
 3.	Set Up Biometric Authentication: Ensure that your users have devices capable of biometric authentication (like fingerprint or facial recognition).
 
 ## Demo video
-![Demo](https://github.com/justinlaw360/passkey/blob/main/passkey_demo.gif)
+![passkey_demo](https://github.com/user-attachments/assets/53f83b0e-fb5e-4952-a7e7-b25d4a5a1a63)
 
-If you are interested to try it yourself, please refer to the souce codes
+
+If you are interested to try it yourself, please refer to the source codes
