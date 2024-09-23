@@ -24,7 +24,7 @@ Passkeys alleviate the burden of password fatigue, where users struggle to creat
 
 **Improved User Experience**
 
-Passkeys can streamline the user experience by reducing the steps required for authentication. This simplicity can lead to higher user satisfaction and reduced friction during the login process, encouraging users to adopt secure practices more readily.
+Passkeys can streamline the user experience by reducing the steps required for authentication. This simplicity can lead to higher user satisfaction and reduced friction during the login process, encouraging users to adopt secure practices more readily.  Passkey authentication achieves multi-factor authentication (MFA) in a single step by combining two factors: the passkey itself and a biometric scan or device PIN. When you use a passkey, you authenticate with your biometric information (like a fingerprint or facial recognition) or a device passcode. This process verifies both your identity and the device you are using, streamlining the login experience while maintaining strong security.
 
 **Lower Maintenance Costs**
 
